@@ -1,0 +1,16 @@
+{
+    "name": "ricadesign/laravel-dev",
+    "type": "metapackage",
+    "require": {
+        "laravel/framework": "^5.6"
+    },
+    "require-dev": {
+        "beyondcode/laravel-view-xray": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "PayetusKid",
+            "email": "payet91@gmail.com"
+        }
+    ]
+}
