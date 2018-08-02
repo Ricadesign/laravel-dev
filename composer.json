@@ -3,7 +3,8 @@
     "type": "metapackage",
     "require": {
         "laravel/framework": "^5.6",
-        "beyondcode/laravel-view-xray": "^1.0"
+        "beyondcode/laravel-view-xray": "^1.0",
+        "ajthinking/tinx": "^2.1"
     },
     "require-dev": {
         
